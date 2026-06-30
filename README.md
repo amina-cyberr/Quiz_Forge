@@ -36,7 +36,7 @@ Quiz Forge is a Java-based quiz application with dynamic difficulty adjustment, 
 - `view/` - GUI components
 
 ## Author
-[Amina Sajid]
+Amina Sajid
 
 ## License
 MIT License
